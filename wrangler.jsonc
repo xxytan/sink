@@ -35,7 +35,7 @@
     {
       "binding": "KV",
       "preview_id": "ef93d42dc4b34969bab404d2e80f8dd3",
-      "id": "ef93d42dc4b34969bab404d2e80f8dd3" // IMPORTANT: Change this to your KV namespace ID
+      "id": "8095369d560246b6a76bea774871b208" // IMPORTANT: Change this to your KV namespace ID
     }
   "triggers": {
     "crons": ["0 0 * * *"] // Run backup task daily at 00:00 UTC
